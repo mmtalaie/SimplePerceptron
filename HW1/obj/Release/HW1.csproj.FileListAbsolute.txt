@@ -41,3 +41,9 @@ E:\University\First Term\NN\HomeWork\HW1\HW1\HW1\obj\Release\HW1.csproj.CopyComp
 E:\University\First Term\NN\HomeWork\HW1\HW1\HW1\obj\Release\HW1.exe
 E:\University\First Term\NN\HomeWork\HW1\HW1\HW1\obj\Release\HW1.pdb
 E:\University\First Term\NN\HomeWork\HW1\HW1\HW1\obj\Release\HW1.csprojAssemblyReference.cache
+B:\University\New folder\First Term\NN\HomeWork\HW1 971419042\HW1 Source\HW1\obj\Release\HW1.csprojAssemblyReference.cache
+B:\University\New folder\First Term\NN\HomeWork\HW1 971419042\HW1 Source\HW1\obj\Release\HW1.Form1.resources
+B:\University\New folder\First Term\NN\HomeWork\HW1 971419042\HW1 Source\HW1\obj\Release\HW1.Properties.Resources.resources
+B:\University\New folder\First Term\NN\HomeWork\HW1 971419042\HW1 Source\HW1\obj\Release\HW1.csproj.GenerateResource.cache
+B:\University\New folder\First Term\NN\HomeWork\HW1 971419042\HW1 Source\HW1\obj\Release\HW1.exe
+B:\University\New folder\First Term\NN\HomeWork\HW1 971419042\HW1 Source\HW1\obj\Release\HW1.pdb
